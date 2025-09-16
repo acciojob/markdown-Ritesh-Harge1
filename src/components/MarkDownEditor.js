@@ -14,7 +14,7 @@ function MarkdownEditor() {
   };
 
   return (
-    <div className="markdown-container" style={{ display: "flex", gap: "2rem" }}>
+    <div className="App" style={{ display: "flex", gap: "2rem" }}>
       <textarea
         className="textarea"
         value={text}
