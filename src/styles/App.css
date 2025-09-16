@@ -1,12 +1,17 @@
-h1 {
-    color: #27aedb;
-    text-align: center;
-    }
-    
+.app {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+}
 
-button{
-    color: #27aedb;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+.textarea {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1rem;
+}
+
+.preview {
+  background: #f4f4f4;
+  padding: 1rem;
+  height: 400px;
+  overflow-y: auto;
 }
